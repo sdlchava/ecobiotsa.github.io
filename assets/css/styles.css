@@ -335,7 +335,8 @@ img {
     letter-spacing: 1rem;
   }
   .home__img {
-    width: 350px;
+    width: 380px;
+    object-fit: cover;
   }
 
   .collection__container {
@@ -367,7 +368,7 @@ img {
     padding-left: 5rem;
   }
   .home__img {
-    right: -3%;
+    right: 10%;
   }
 }
 
