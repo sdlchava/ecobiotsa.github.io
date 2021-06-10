@@ -332,7 +332,7 @@ img {
   }
   .home__title {
     line-height: .8;
-    letter-spacing: 1.5rem;
+    letter-spacing: 1rem;
   }
   .home__img {
     width: 350px;
@@ -367,7 +367,7 @@ img {
     padding-left: 5rem;
   }
   .home__img {
-    right: 5%;
+    right: -3%;
   }
 }
 
