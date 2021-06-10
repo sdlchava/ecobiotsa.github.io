@@ -355,7 +355,9 @@ img {
     grid-template-columns: repeat(4, 1fr);
   }
   .footer__container {
-    padding: 2rem 0; 
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 0;
   }
 }
 
